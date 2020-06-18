@@ -4,7 +4,7 @@ public class Simple{
      System.out.println("Hello Java");  
      System.out.println("Jenkins practise");
      System.out.println("Hello Python");
-     System.out.println("Hello Javascript");
+     System.out.println("Hello Js");
     }  
     
 }  
